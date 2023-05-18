@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrit Bhattacharya</h1>
-<h3 align="center">A passionate frontend and android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg">
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit03b&label=Profile%20views&color=0e75b6&style=flat" alt="amrit03b" /> </p>
 
@@ -22,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit03b&show_icons=true&locale=en" alt="amrit03b" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit03b&" alt="amrit03b" /></p>
-
