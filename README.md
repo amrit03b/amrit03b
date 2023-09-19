@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrit Bhattacharya</h1>
-<h3 align="center">A passionate frontend developer from Kolkata,India</h3>
+<h3 align="center">A passionate backend developer from Kolkata,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit03b&label=Profile%20views&color=0e75b6&style=flat" alt="amrit03b" /> </p>
 
@@ -22,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit03b&" alt="amrit03b" /></p>
 
-[![amrit03b's GitHub | Stats](https://stats.quine.sh/amrit03b/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amrit03b)
