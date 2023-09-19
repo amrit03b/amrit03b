@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit03b&show_icons=true&locale=en" alt="amrit03b" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit03b&" alt="amrit03b" /></p>
+
+[![amrit03b's GitHub | Stats](https://stats.quine.sh/amrit03b/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amrit03b)
