@@ -22,3 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit03b&" alt="amrit03b" /></p>
 
+[![An image of @amrit03b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amrit03b)](https://holopin.io/@amrit03b)
+
